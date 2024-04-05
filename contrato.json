@@ -1,0 +1,13 @@
+{
+    "version": "v1.0.1",
+    "users": [
+        {
+            "id": 1,
+            "name": "Vitor"
+        },
+        {
+            "id": 2,
+            "name": "Jonas"
+        }
+    ]
+}
